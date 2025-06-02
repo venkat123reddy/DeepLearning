@@ -1,6 +1,8 @@
 
 # 📘 Assignment 1: Deep Learning with TensorFlow
 
+Name : Venkata Reddy Attala (700770541 - vxa05410@ucmo.edu)
+
 This assignment focuses on three foundational aspects of deep learning using TensorFlow:
 1. Tensor operations and reshaping
 2. Understanding and comparing loss functions
