@@ -1,4 +1,4 @@
-
+# Name : Venkata Reddy Attala (700770541 - vxa05410)
 # Deep Learning Assignment - README
 
 This repository contains multiple Jupyter notebooks focusing on different tasks related to image processing, normalization techniques, and convolution operations using TensorFlow, OpenCV, and scikit-learn.
